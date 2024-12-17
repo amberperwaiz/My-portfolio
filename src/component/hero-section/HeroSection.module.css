@@ -1,0 +1,31 @@
+.hero{
+    width: 100%;
+    background-color: var(--background-black );
+    text-align: center;
+    padding-top: 7.4688rem;
+}
+
+.hero h1{
+   
+    font-size: 1.8987rem;
+    line-height: 3rem;
+}
+
+.hero span{
+    color: var(--logo-color);
+
+}
+.hero p{
+    margin-top: 20px;
+    margin-bottom: 2.0313rem;;
+}
+.socialIconsDiv{
+  padding: .6875rem;
+  display: flex;
+  gap: 50px;
+  justify-self: space-between;
+  align-items:center;
+  background-color: var(--logo-color);
+  border-radius: 1.625rem;
+}
+
